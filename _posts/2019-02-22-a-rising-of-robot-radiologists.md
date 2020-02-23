@@ -1,6 +1,10 @@
 ---
+layout: post
 title: Rise of Robot Radiologists
+author: Hanoch
 tags: [deep learning, digital health, radiology]
+categories: [ Jekyll, tutorial ]
+image: assets/images/radiologists_nature.jpg
 style: fill
 color: success
 description: Rise of Robot Radiologists 
