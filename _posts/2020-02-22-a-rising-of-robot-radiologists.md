@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rise of Robot Radiologists"
-author: Hanoch
+author: hanoch
 tags: [deep learning, digital health, radiology]
 categories: [deep learning, radiologists ]
 image: assets/images/radiologists_nature.jpg
