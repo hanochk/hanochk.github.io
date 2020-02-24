@@ -2,8 +2,8 @@
 layout: post
 title: "At Tech’s Leading Edge, Worry About a Concentration of Power"
 author: Hanoch
-tags: [deep learning, AI]
-categories: [ deep learning]
+tags: [deep learning, ai]
+categories: [deep learning]
 image: assets/images/10GREENA1-jumbo.jpg
 style: fill
 color: success
