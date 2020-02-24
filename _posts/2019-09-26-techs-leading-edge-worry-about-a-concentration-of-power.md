@@ -7,7 +7,7 @@ categories: [deep learning, ai]
 image: assets/images/10GREENA1-jumbo.jpg
 style: fill
 color: success
-description: Rise of Robot Radiologists - deep learning for tumor detection
+description: AI concerns — about power use and the cost of computing
 ---
 
 Source: [NYTimes](hhttps://www.nytimes.com/2019/09/26/technology/ai-computer-expense.html)
