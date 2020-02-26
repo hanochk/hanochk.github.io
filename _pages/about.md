@@ -26,9 +26,10 @@ comments: true
 <div class="sticky-top sticky-top-80">
 <h5>Lets connect</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/hanochk">Github <i class="fab fa-github"></i></a>.</p>
+<p>My Github <a target="_blank" href="https://github.com/hanochk">Github <i class="fab fa-github"></i></a>.</p>
+<p>LinkedIN <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fa fa-linkedin"></i></a>.</p>
 
-<a target="_blank" href="" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
