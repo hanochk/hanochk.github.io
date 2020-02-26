@@ -2,7 +2,7 @@
 name:
 title:
 description: "My blog"
-logo: 'assets/images/SEO.jfif'
+logo: 'assets/images/SEO.jfif'=100x20
 favicon: 'assets/images/SEO.jfif'
 baseurl:
 google_analytics: 'UA-46278016-1'
@@ -73,5 +73,5 @@ lazyimages: "disabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 footer-links:
-  linkedin: hanoch-kremer-
+  linkedin: hanoch-kremer-779803
   email: hanoch.kremer@gmail.com
