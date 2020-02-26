@@ -2,7 +2,7 @@
 name:
 title:
 description: "My blog"
-logo: 'assets/images/SEO.jfif'
+logo: ''
 favicon: 'assets/images/SEO.jfif'
 baseurl:
 google_analytics: 'UA-46278016-1'
