@@ -24,9 +24,9 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
+<p>LinkedIN <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fab fa-linkedin"></i></a>.</p>
 <h5>Lets connect</h5>
 
-<p>LinkedIN <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fab fa-linkedin"></i></a>.</p>
 <p>My Github <a target="_blank" href="https://github.com/hanochk">Github <i class="fab fa-github"></i></a>.</p>
 
 
