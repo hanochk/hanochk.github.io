@@ -30,7 +30,7 @@ comments: true
 
 <p>LinkedIN <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fa fa-linkedin"></i></a>.</p>
 
-<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">LinkedIn</a>
+<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
