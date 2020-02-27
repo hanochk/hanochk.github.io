@@ -13,7 +13,7 @@ comments: true
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" /></p>
 <h4>Documentation</h4>
 
-<p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p>
+<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
 
 <h4>Questions or bug reports?</h4>
 
@@ -30,7 +30,7 @@ comments: true
 
 <p>LinkedIN <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fab fa-linkedin"></i></a>.</p>
 
-<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">Documentation</a>
+#<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
