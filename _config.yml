@@ -16,8 +16,9 @@ linkedin: hanoch-kremer-779803
 authors:
   hanoch:
     name: Hanoch
-    display_name: Hanoch
-    gravatar: e56154546cf4be74e393c62d1ae9f9d4
+    display_name: Hanoch Kremer
+    avatar: 'assets/images/portrait.JPG'
+#    gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: hanoch.kremer@gmail.com
     web:
     twitter: https://twitter.com/hanochk
