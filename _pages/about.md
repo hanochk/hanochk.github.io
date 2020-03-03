@@ -10,7 +10,7 @@ comments: true
 
 <p>Hi, My name is Hanoch Kremer.</p>
 
-<p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" /></p>
+<p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" height="42" width="42"/></p>
 <h4>Documentation</h4>
 
 <p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p>
