@@ -11,13 +11,13 @@ comments: true
 <p>Hi, My name is Hanoch Kremer.</p>
 
 <p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" height="200" width="128"/></p>
-<h4>Documentation</h4>
+<h4>Bio</h4>
 
-<p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p>
+<!--p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p-->
 
-<h4>Questions or bug reports?</h4>
+<!--h4>Questions or bug reports?</h4-->
 
-<p>Head over to our <a href="https://github.com/hanochk">Github repository</a>!</p>
+<!--p>Head over to our <a href="https://github.com/hanochk">Github repository</a>!</p-->
 
 </div>
 
