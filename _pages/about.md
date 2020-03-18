@@ -13,18 +13,22 @@ comments: true
 <p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" height="200" width="128"/></p>
 <h4>Bio</h4>
 
-<p> 22 years of research engineering in Israeli hi-tech<br>
-Proficient in:<br> 
+<p>22 years of research engineering in Israeli hi-tech<br>
+My passion is for challenges in new and disruptive domains where a large space for innovation exists<br>
+I love to share ideas with coworkers, creating high level of team work
+I've gained my M.Sc. + B.Sc. in E.E. (cum laude) from BGU university(one of the top three in Israel)<br>
+Holding 6 commercialized patents in 3 of them as an inventor in the areas of: Deep Learning, Computer Vision, Machine Learning and Signal processing<br>
+
+My Proficiency with:<br> 
 
 Computer vision<br>
 Deep and machine learning<br>
 Speech recognition<br>
 Image and signal processing<br>
-M.Sc. + B.Sc. in E.E. from BGU university(one of the top three in Israel)<br>
 Leading small teams in cutting edge technology from concept to real time product <br>
-Holding 6 commercialized patents in 3 of them as an inventor : Deep Learning, Computer Vision and Machine Learning <br>
 Toolbox: PyTorch, Tensorflow, Keras, Python, Caffe, OpenCV, Weka, C/C++, Matlab, parallel programming, Assembler, Linux (user), LibSVM, SQL, Git and AWS.
 
+In my free time (early morning and late eve.) I'm practicing Drumming, mastering in Swimming and seasonal Skiing<br>
 </p>
 <!--p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p-->
 
