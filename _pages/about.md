@@ -15,9 +15,10 @@ comments: true
 
 <p>22 years of research engineering in Israeli hi-tech<br>
 My passion is for challenges in new and disruptive domains where a large space for innovation exists<br>
-I love to share ideas with coworkers, creating high level of team work
+I love to share ideas with coworkers, creating high level of team work<br>
 I've gained my M.Sc. + B.Sc. in E.E. (cum laude) from BGU university(one of the top three in Israel)<br>
 Holding 6 commercialized patents in 3 of them as an inventor in the areas of: Deep Learning, Computer Vision, Machine Learning and Signal processing<br>
+Served in an elite technology unit<br>
 <br>
 My proficiency with:<br> 
 <br>
