@@ -13,7 +13,7 @@ comments: true
 <p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" height="200" width="128"/></p>
 <h4>Bio</h4>
 
-<p>22 years of research engineering in Israeli hi-tech<br>
+<p>25 years of research engineering in Israeli hi-tech<br>
 My passion is for challenges in new and disruptive domains where a large space for innovation exists<br>
 I love to share ideas with coworkers, creating high level of team work<br>
 I've gained my M.Sc. + B.Sc. in E.E. (cum laude) from BGU university(one of the top three in Israel)<br>
