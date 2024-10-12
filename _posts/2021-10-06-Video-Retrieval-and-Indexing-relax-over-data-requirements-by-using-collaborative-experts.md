@@ -7,8 +7,7 @@ categories: [deep learning, ai, CNN]
 image: assets/images/zisserman_ce.png
 style: fill
 color: success
-description: Collaborative of experts (CE): Multi-modal video embedding can be well approximated by the set of semantic learned by experts
-In the spirit of the mixture of expert approach (in contrast, the gating architecture is based on the input in the vanilla)
+description: Collaborative Experts (CE) Multi-modal video embedding can be well approximated by the set of semantic learned by experts In the spirit of the mixture of expert approach (in contrast, the gating architecture is based on the input in the vanilla)
 ---
 
 Source: [Medium](https://medium.com/@hanoch.kremer/video-retrieval-and-indexing-relax-over-data-requirements-by-using-collaborative-experts-e3dd02cabfb3)
