@@ -20,7 +20,7 @@ My distinct value lies in a the last 11 years focusing on AI, particularly in CV
 Now, I am seeking to join a robust team or venture in a role such as an IC/Technical-Lead, or Sr. Applied Researcher. Also holding an EU citizenship.
 Served in an elite technology unit<br>
 <br>
-<h3>My proficiency with:</h3><br>
+<h3>My proficiency with:</h3>
 Computer vision<br>
 Deep and machine learning<br>
 Speech recognition<br>
