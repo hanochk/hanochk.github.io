@@ -21,8 +21,12 @@ Now, I am seeking to join a robust team or venture in a role such as an IC/Techn
 Served in an elite technology unit<br>
 <br>
 <h5>My proficiency with</h5>
-Computer vision<br>
-Deep and machine learning<br>
+<h6>Computer vision and deep and machine learning</h6>
+Perception: Deep learning-based detection, classification, and tracking techniques for 2D, 2.5D, and 3D modalities.<br>
+- Re-identification and Novelty detection.<br>
+- Remote sensing, change detection, and multi-sensor fusion.<br>
+- Stereo vision, camera anatomy, calibration, and Image processing.<br>
+
 Image and signal processing<br>
 Speech recognition<br>
 <h6>AI/NLP/Text</h6>
