@@ -25,7 +25,7 @@ Computer vision<br>
 Deep and machine learning<br>
 Image and signal processing<br>
 Speech recognition<br>
-<h6>AI/NLP/Text</h6><br>
+<h6>AI/NLP/Text</h6>
 - GPT/LLM-based semantic summarization of scenes<br>
 - Generative AI: Multi-modal understanding and retrieval by empowering LLMs<br>
 - Semantic search and retrieval. Fine-tune LLMs and PeFT.<br>
@@ -33,8 +33,8 @@ Transformer-based models hands-on and understanding.<br>
 Leading small teams in cutting edge technology from concept to real time product <br>
 <h6>Toolbox</h6>
 PyTorch, Tensorflow, Keras, Python, Caffe, OpenCV, Weka, C/C++, Matlab, <wbr> parallel programming, Assembler, Linux (user), LibSVM, SQL, vector databases, Git and AWS.<br>
-
-In my free time (early morning and late eve.) I'm practicing Drumming, mastering in Swimming and seasonal Skiing<br>
+<br>
+In my free time (early morning and late eve.) I'm mastering in Swimming, drumming with my musical band and seasonally Skiing<br>
 </p>
 <!--p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p-->
 
@@ -51,6 +51,7 @@ In my free time (early morning and late eve.) I'm practicing Drumming, mastering
 
 <p>LinkedIN <a target="_blank" href="https://www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fab fa-linkedin"></i></a>.</p>
 <p>My Github <a target="_blank" href="https://github.com/hanochk">Github <i class="fab fa-github"></i></a>.</p>
+<p>My GoogleScholar <a target="_blank" href="https://scholar.google.com/citations?user=GEjajf4AAAAJ&hl=enk">GoogleScholar <i class="fab fa-GoogleScholar"></i></a>.</p>
 
 
 <!--<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">Documentation</a>-->
