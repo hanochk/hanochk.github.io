@@ -11,7 +11,7 @@ comments: true
 <p>Hi, My name is Hanoch Kremer.</p>
 
 <p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" height="200" width="128"/></p>
-<h4>Bio</h4>
+<h3>Bio</h3>
 
 <p>27 years of research engineering in Israeli hi-tech<br>
 I'm an AI expert (CV| ML| AI | LLM |DSP) with 25 yrs of experience as Sr. Applied research engineer and TL.
@@ -20,19 +20,20 @@ My distinct value lies in a the last 11 years focusing on AI, particularly in CV
 Now, I am seeking to join a robust team or venture in a role such as an IC/Technical-Lead, or Sr. Applied Researcher. Also holding an EU citizenship.
 Served in an elite technology unit<br>
 <br>
-<h3>My proficiency with:</h3>
+<h5>My proficiency with</h5>
 Computer vision<br>
 Deep and machine learning<br>
-Speech recognition<br>
 Image and signal processing<br>
-<h3>AI/NLP/Text</h3><br>
+Speech recognition<br>
+<h6>AI/NLP/Text</h6><br>
 - GPT/LLM-based semantic summarization of scenes<br>
 - Generative AI: Multi-modal understanding and retrieval by empowering LLMs<br>
 - Semantic search and retrieval. Fine-tune LLMs and PeFT.<br>
 Transformer-based models hands-on and understanding.<br>
 Leading small teams in cutting edge technology from concept to real time product <br>
-Toolbox: PyTorch, Tensorflow, Keras, Python, Caffe, OpenCV, Weka, C/C++, Matlab, <wbr> parallel programming, Assembler, Linux (user), LibSVM, SQL, Git and AWS.<br>
-<br>
+<h6>Toolbox</h6>
+PyTorch, Tensorflow, Keras, Python, Caffe, OpenCV, Weka, C/C++, Matlab, <wbr> parallel programming, Assembler, Linux (user), LibSVM, SQL, vector databases, Git and AWS.<br>
+
 In my free time (early morning and late eve.) I'm practicing Drumming, mastering in Swimming and seasonal Skiing<br>
 </p>
 <!--p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p-->
