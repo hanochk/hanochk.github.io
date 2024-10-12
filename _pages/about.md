@@ -14,10 +14,10 @@ comments: true
 <h4>Bio</h4>
 
 <p>27 years of research engineering in Israeli hi-tech<br>
-My passion is for challenges in new and disruptive domains where a large space for innovation exists<br>
-I love to share ideas with coworkers, creating high level of team work<br>
-I've gained my M.Sc. + B.Sc. in E.E. (cum laude) from BGU university(one of the top three in Israel)<br>
-Holding 6 commercialized patents in 3 of them as an inventor in the areas of: Deep Learning, Computer Vision, Machine Learning and Signal processing<br>
+I'm an AI expert (CV| ML| AI | LLM |DSP) with 25 yrs of experience as Sr. Applied research engineer and TL.
+I played pivotal roles in the early stages of two automotive startups, one acquired by Qualcomm and the other successfully went public through an IPO.
+My distinct value lies in a the last 11 years focusing on AI, particularly in CV, ML, and LLM. Researched and developed AI models which has been implemented in production, delivering tangible impacts for numerous clients. I bring to the table the achievement of 8 commercialized patents, 3 of which I contributed to as an inventor.
+Now, I am seeking to join a robust team or venture in a role such as an IC/Technical-Lead, or Sr. Applied Researcher. Also holding an EU citizenship.
 Served in an elite technology unit<br>
 <br>
 My proficiency with:<br> 

@@ -10,7 +10,7 @@ color: success
 description: ScatterNets incorporates geometric knowledge of images to produce discriminative and invariant features. The same outcome as CNN's first layers hold.
 ---
 
-Source: [Medium](https://medium.com/@hanoch.kremer/efficient-convolutional-network-learning-scatternet-648dd672818c)
+Source: [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7244236722761338880)
 When I led a DNN project based on few data ~20K examples for biometric ID, based on poor quality modality, 
 I was trying to find out ways of incorporating prior knowledge to CNN in order to ease the data scale 
 requirements for training. 
