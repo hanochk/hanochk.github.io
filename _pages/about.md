@@ -17,11 +17,11 @@ comments: true
 I'm an AI expert (CV| ML| AI | LLM |DSP) with 25 yrs of experience as Sr. Applied research engineer and TL.
 I played pivotal roles in the early stages of two automotive startups, one acquired by Qualcomm and the other successfully went public through an IPO.
 My distinct value lies in a the last 11 years focusing on AI, particularly in CV, ML, and LLM. Researched and developed AI models which has been implemented in production, delivering tangible impacts for numerous clients. I bring to the table the achievement of 8 commercialized patents, 3 of which I contributed to as an inventor.
-Now, I am seeking to join a robust team or venture in a role such as an IC/Technical-Lead, or Sr. Applied Researcher. Also holding an EU citizenship.
+Now, I am seeking to join a robust team or venture in a role such as an IC/Technical-Lead, or Sr. Applied Researcher. <br>
 Served in an elite technology unit<br>
 <br>
 <h5>My proficiency with</h5>
-<h6>Computer vision and deep and machine learning</h6>
+<h6>Computer vision, deep and machine learning</h6>
 Perception: Deep learning-based detection, classification, and tracking techniques for 2D, 2.5D, and 3D modalities.<br>
 - Re-identification and Novelty detection.<br>
 - Remote sensing, change detection, and multi-sensor fusion.<br>
