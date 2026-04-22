@@ -8,43 +8,54 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Hi, My name is Hanoch Kremer.</p>
+<p>Hi, my name is Hanoch Kremer.</p>
 
-<p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="jekyll template mediumish" height="200" width="128"/></p>
+<p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="Hanoch Kremer" height="200" width="128"/></p>
+
+<p><strong>Team leader — Computer Vision | AI | ML | LLM | Deep Learning | Signal Processing | Mentor</strong><br>
+<em>AI CV Team Leader at <a href="https://www.linkedin.com/company/railv-ision" target="_blank" rel="noopener">Rail Vision Ltd</a></em></p>
+
 <h3>Bio</h3>
 
-<p>27 years of research engineering in Israeli hi-tech<br>
-I'm an AI expert (CV| ML| AI | LLM |DSP) with 25 yrs of experience as Sr. Applied research engineer and TL.
-I played pivotal roles in the early stages of two automotive startups, one acquired by Qualcomm and the other successfully went public through an IPO.
-My distinct value lies in a the last 11 years focusing on AI, particularly in CV, ML, and LLM. Researched and developed AI models which has been implemented in production, delivering tangible impacts for numerous clients. I bring to the table the achievement of 8 commercialized patents, 3 of which I contributed to as an inventor.
-Now, I am seeking to join a robust team or venture in a role such as an IC/Technical-Lead, or Sr. Applied Researcher. <br>
-Served in an elite technology unit<br>
-<br>
-<h5>My proficiency with</h5>
-<h6>Computer vision, deep and machine learning</h6>
-Perception: Deep learning-based detection, classification, and tracking techniques for 2D, 2.5D, and 3D modalities.<br>
-- Re-identification and Novelty detection.<br>
-- Remote sensing, change detection, and multi-sensor fusion.<br>
-- Stereo vision, camera anatomy, calibration, and Image processing.<br>
+<p>With nearly three decades of applied research in Israeli hi-tech, I focus on AI, computer vision, machine and deep learning, image, speech, and signal processing — turning complex AI problems into products that matter. I was part of the founding teams at two automotive technology startups; both achieved successful exits (acquisition and IPO). I hold nine commercially successful patents spanning deep learning, visual perception, speech enhancement, and signal processing.</p>
 
-Image and signal processing<br>
-Speech recognition<br>
-<h6>AI/NLP/Text</h6>
-- GPT/LLM-based semantic summarization of scenes<br>
-- Generative AI: Multi-modal understanding and retrieval by empowering LLMs<br>
-- Semantic search and retrieval. Fine-tune LLMs and PeFT.<br>
-Transformer-based models hands-on and understanding.<br>
-Leading small teams in cutting edge technology from concept to real time product <br>
+<p>I am a versatile team player in both IC and leadership roles: tech lead, research engineer, or mentor in cutting-edge teams. I collaborate effectively with cross-functional teams and stakeholders. I mentor in the (AI) <a href="https://www.linkedin.com/company/adelson-school" target="_blank" rel="noopener">Adelson</a> entrepreneurship program, serve on a graduates’ examination committee, and served in an elite technology unit in the IDF. EU resident.</p>
+
+<h5>My proficiency</h5>
+
+<h6>AI / NLP / text</h6>
+<ul class="pl-3">
+<li>GPT/LLM-based semantic summarization of scenes</li>
+<li>Generative AI: multi-modal understanding and retrieval with LLMs</li>
+<li>Semantic search and retrieval; fine-tuning LLMs and parameter-efficient fine-tuning (PeFT)</li>
+<li>Hands-on work with transformer-based models</li>
+</ul>
+
+<h6>Computer vision, deep learning, and ML</h6>
+<ul class="pl-3">
+<li><strong>Perception:</strong> detection, classification, and tracking for 2D, 2.5D, 3D, and thermal (LWIR) modalities</li>
+<li>Re-identification and novelty detection</li>
+<li>Remote sensing, change detection, and multi-sensor fusion</li>
+<li>Stereo vision, camera anatomy, calibration, and image processing</li>
+<li>ML, statistical modeling, and optimization</li>
+</ul>
+
+<h6>Speech recognition and processing</h6>
+<ul class="pl-3">
+<li>ASR in non-stationary, harsh environments: noise compensation and speaker/model adaptation with sparse data (e.g. car kit)</li>
+<li>Adaptive voice activity detection (VAD) for harsh environments</li>
+<li>Speech enhancement for vehicle environments; acoustic echo cancellation</li>
+</ul>
+
+<h6>Signal processing</h6>
+<ul class="pl-3">
+<li>RADAR (FMCW), noise cancellation, adaptive filtering and interference cancellation</li>
+</ul>
+
 <h6>Toolbox</h6>
-PyTorch, Tensorflow, Keras, Python, Caffe, OpenCV, Weka, C/C++, Matlab, <wbr> parallel programming, Assembler, Linux (user), LibSVM, SQL, vector databases, Git and AWS.<br>
-<br>
-In my free time (early morning and late eve.) I'm mastering in Swimming, drumming with my musical band and seasonally Skiing<br>
-</p>
-<!--p>Please, read the docs <a href="https://github.com/hanochk/">here</a>.</p-->
+<p>PyTorch, TensorFlow, Keras, Python, Caffe, OpenCV, Weka, C/C++, MATLAB, parallel programming, Assembler, Linux (user), LibSVM, SQL, vector databases, Git, AWS, and MLOps. Comfortable across software and hardware-oriented stacks: OOD, ASIC/VLSI, IPP, and VLIW/SIMD parallel programming. Agile/SCRUM.</p>
 
-<!--h4>Questions or bug reports?</h4-->
-
-<!--p>Head over to our <a href="https://github.com/hanochk">Github repository</a>!</p-->
+<p>In my free time I swim with a masters group several times a week, ski when I can, and play drums in a band. Married with two wonderful teenagers.</p>
 
 </div>
 
@@ -53,10 +64,10 @@ In my free time (early morning and late eve.) I'm mastering in Swimming, drummin
 <div class="sticky-top sticky-top-80">
 <h5>Lets connect</h5>
 
-<p>LinkedIN <a target="_blank" href="https://www.linkedin.com/in/hanoch-kremer-779803/">LinkedIN <i class="fab fa-linkedin"></i></a>.</p>
-<p>Github <a target="_blank" href="https://github.com/hanochk">Github <i class="fab fa-github"></i></a>.</p>
-<p>GoogleScholar <a target="_blank" href="https://scholar.google.com/citations?user=GEjajf4AAAAJ&hl=enk">GoogleScholar <i class="fab fa-GoogleScholar"></i></a>.</p>
-<p>Medium <a target="_blank" href="https://medium.com/@hanoch.kremer">Medium <i class="fab fa-Medium"></i></a>.</p>
+<p>LinkedIn <a target="_blank" rel="noopener" href="https://www.linkedin.com/in/hanochkremer/">LinkedIn <i class="fab fa-linkedin"></i></a>.</p>
+<p>Github <a target="_blank" rel="noopener" href="https://github.com/hanochk">Github <i class="fab fa-github"></i></a>.</p>
+<p>GoogleScholar <a target="_blank" rel="noopener" href="https://scholar.google.com/citations?user=GEjajf4AAAAJ&hl=en">GoogleScholar <i class="fab fa-GoogleScholar"></i></a>.</p>
+<p>Medium <a target="_blank" rel="noopener" href="https://medium.com/@hanoch.kremer">Medium <i class="fab fa-Medium"></i></a>.</p>
 
 
 <!--<a target="_blank" href="" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="www.linkedin.com/in/hanoch-kremer-779803/" class="btn btn-warning">Documentation</a>-->
