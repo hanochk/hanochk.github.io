@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Four dark AI-style background proposals</title>
+  <desc id="desc">2x2 grid of abstract backgrounds: mesh glow, subtle grid, aurora bands, and minimal noise gradient.</desc>
+  <defs>
+    <linearGradient id="p1-base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#06080d"/>
+      <stop offset="100%" style="stop-color:#0a0f18"/>
+    </linearGradient>
+    <radialGradient id="p1-g1" cx="50%" cy="0%" r="70%">
+      <stop offset="0%" style="stop-color:#2dd4bf;stop-opacity:0.22"/>
+      <stop offset="55%" style="stop-color:#2dd4bf;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="p1-g2" cx="100%" cy="30%" r="55%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:0.18"/>
+      <stop offset="50%" style="stop-color:#6366f1;stop-opacity:0"/>
+    </radialGradient>
+    <radialGradient id="p1-g3" cx="0%" cy="85%" r="45%">
+      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:0.12"/>
+      <stop offset="50%" style="stop-color:#38bdf8;stop-opacity:0"/>
+    </radialGradient>
+
+    <pattern id="p2-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#94a3b8" stroke-opacity="0.08" stroke-width="0.5"/>
+    </pattern>
+    <linearGradient id="p2-vignette" x1="50%" y1="50%" x2="50%" y2="100%">
+      <stop offset="0%" style="stop-color:#0b1220;stop-opacity:0"/>
+      <stop offset="100%" style="stop-color:#030508;stop-opacity:1"/>
+    </linearGradient>
+
+    <linearGradient id="p3-aurora" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" style="stop-color:#0c1222"/>
+      <stop offset="35%" style="stop-color:#134e4a;stop-opacity:0.9"/>
+      <stop offset="50%" style="stop-color:#312e81;stop-opacity:0.85"/>
+      <stop offset="70%" style="stop-color:#164e63;stop-opacity:0.9"/>
+      <stop offset="100%" style="stop-color:#0a0e14"/>
+    </linearGradient>
+
+    <linearGradient id="p4-noise-base" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#080c12"/>
+      <stop offset="50%" style="stop-color:#0d1520"/>
+      <stop offset="100%" style="stop-color:#06090e"/>
+    </linearGradient>
+    <filter id="p4-grain" x="0%" y="0%" width="100%" height="100%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="4" stitchTiles="stitch" result="noise"/>
+      <feColorMatrix type="saturate" values="0" in="noise" result="gray"/>
+      <feComponentTransfer in="gray" result="grain">
+        <feFuncA type="linear" slope="0.15" intercept="0"/>
+      </feComponentTransfer>
+    </filter>
+  </defs>
+
+  <!-- Q1: Mesh glow -->
+  <g>
+    <rect x="0" y="0" width="600" height="400" fill="url(#p1-base)"/>
+    <rect x="0" y="0" width="600" height="400" fill="url(#p1-g1)"/>
+    <rect x="0" y="0" width="600" height="400" fill="url(#p1-g2)"/>
+    <rect x="0" y="0" width="600" height="400" fill="url(#p1-g3)"/>
+    <text x="24" y="44" fill="#e8eef6" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">1 &#8212; Mesh glow</text>
+    <text x="24" y="68" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Teal + indigo + sky radials on deep slate</text>
+  </g>
+
+  <!-- Q2: Terminal grid -->
+  <g>
+    <rect x="600" y="0" width="600" height="400" fill="#070a10"/>
+    <rect x="600" y="0" width="600" height="400" fill="url(#p2-grid)"/>
+    <rect x="600" y="0" width="600" height="400" fill="url(#p2-vignette)"/>
+    <circle cx="900" cy="120" r="140" fill="#14b8a6" fill-opacity="0.06"/>
+    <text x="624" y="44" fill="#e8eef6" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">2 &#8212; Terminal grid</text>
+    <text x="624" y="68" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Fine grid + vignette + soft accent blob</text>
+  </g>
+
+  <!-- Q3: Aurora bands -->
+  <g>
+    <rect x="0" y="400" width="600" height="400" fill="#06080d"/>
+    <rect x="0" y="400" width="600" height="400" fill="url(#p3-aurora)" fill-opacity="0.95"/>
+    <rect x="0" y="400" width="600" height="400" fill="url(#p1-g1)" opacity="0.4"/>
+    <text x="24" y="444" fill="#f1f5f9" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">3 &#8212; Aurora bands</text>
+    <text x="24" y="468" fill="#cbd5e1" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Horizontal color wash (teal / indigo)</text>
+  </g>
+
+  <!-- Q4: Minimal + noise -->
+  <g>
+    <rect x="600" y="400" width="600" height="400" fill="url(#p4-noise-base)"/>
+    <rect x="600" y="400" width="600" height="400" filter="url(#p4-grain)" opacity="0.35"/>
+    <rect x="600" y="400" width="600" height="400" fill="none" stroke="#38bdf8" stroke-opacity="0.12" stroke-width="1"/>
+    <text x="624" y="444" fill="#e8eef6" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">4 &#8212; Minimal + grain</text>
+    <text x="624" y="468" fill="#94a3b8" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Vertical gradient + subtle noise texture</text>
+  </g>
+
+  <rect x="0" y="0" width="1200" height="800" fill="none" stroke="#334155" stroke-width="2"/>
+  <line x1="600" y1="0" x2="600" y2="800" stroke="#334155" stroke-width="1"/>
+  <line x1="0" y1="400" x2="1200" y2="400" stroke="#334155" stroke-width="1"/>
+</svg>
