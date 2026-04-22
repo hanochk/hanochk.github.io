@@ -3,6 +3,7 @@ layout: page
 title: Hanoch Kremer
 permalink: /about
 comments: true
+hide_newsletter_bar: true
 ---
 
 <div class="row justify-content-between">
