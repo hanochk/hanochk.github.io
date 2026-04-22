@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 290" width="660" height="290" role="img" aria-labelledby="ovt">
+  <title id="ovt">Three neural network graphic options for the About page</title>
+  <defs>
+    <linearGradient id="ovg1" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#0c1222"/><stop offset="100%" stop-color="#0a0e14"/></linearGradient>
+    <linearGradient id="ovg2" x1="0%" y1="50%" x2="100%" y2="50%"><stop offset="0%" stop-color="#0c1222"/><stop offset="100%" stop-color="#0a0e14"/></linearGradient>
+    <radialGradient id="ovg3" cx="50%" cy="40%" r="70%"><stop offset="0%" stop-color="#312e81" stop-opacity="0.5"/><stop offset="100%" stop-color="#0a0e14"/></radialGradient>
+  </defs>
+  <rect width="660" height="290" fill="#030508"/>
+  <!-- column guides -->
+  <line x1="220" y1="0" x2="220" y2="290" stroke="#334155" stroke-width="1"/>
+  <line x1="440" y1="0" x2="440" y2="290" stroke="#334155" stroke-width="1"/>
+
+  <!-- Option 1: stacked MLP (thumbnail) -->
+  <g transform="translate(0,0)">
+    <rect x="8" y="8" width="204" height="250" rx="8" fill="url(#ovg1)" stroke="rgba(148,163,184,0.25)"/>
+    <g stroke="rgba(125,211,252,0.28)" fill="none" stroke-width="0.8">
+      <path d="M70 50 L50 115 M70 50 L90 115 M110 50 L90 115 M110 50 L130 115 M150 50 L130 115 M150 50 L170 115"/>
+      <path d="M50 135 L90 200 M90 135 L90 200 M130 135 L90 200 M130 135 L130 200 M170 135 L130 200"/>
+    </g>
+    <circle cx="70" cy="44" r="7" fill="#1e293b" stroke="#5eead4"/><circle cx="110" cy="44" r="7" fill="#1e293b" stroke="#7dd3fc"/><circle cx="150" cy="44" r="7" fill="#1e293b" stroke="#5eead4"/>
+    <circle cx="50" cy="125" r="6" fill="#1e293b" stroke="#67e8f9"/><circle cx="90" cy="125" r="8" fill="#134e4a" stroke="#5eead4"/><circle cx="130" cy="125" r="6" fill="#1e293b" stroke="#7dd3fc"/><circle cx="170" cy="125" r="6" fill="#1e293b" stroke="#67e8f9"/>
+    <circle cx="90" cy="205" r="8" fill="#1e1b4b" stroke="#a5b4fc"/><circle cx="130" cy="205" r="8" fill="#134e4a" stroke="#5eead4"/>
+    <text x="110" y="275" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">1 Stacked MLP</text>
+  </g>
+
+  <!-- Option 2: flow -->
+  <g transform="translate(220,0)">
+    <rect x="8" y="8" width="204" height="250" rx="8" fill="url(#ovg2)" stroke="rgba(148,163,184,0.25)"/>
+    <g stroke="rgba(94,234,212,0.35)" fill="none" stroke-width="0.9">
+      <line x1="38" y1="110" x2="95" y2="115"/><line x1="38" y1="130" x2="95" y2="120"/><line x1="38" y1="150" x2="95" y2="128"/>
+      <line x1="125" y1="118" x2="185" y2="132"/><line x1="125" y1="128" x2="185" y2="142"/>
+    </g>
+    <circle cx="32" cy="110" r="6" fill="#1e293b" stroke="#5eead4"/><circle cx="32" cy="130" r="6" fill="#1e293b" stroke="#5eead4"/><circle cx="32" cy="150" r="6" fill="#1e293b" stroke="#5eead4"/>
+    <circle cx="108" cy="120" r="7" fill="#1e293b" stroke="#7dd3fc"/><circle cx="108" cy="135" r="7" fill="#134e4a" stroke="#5eead4"/>
+    <circle cx="192" cy="132" r="8" fill="#312e81" stroke="#a5b4fc"/><circle cx="192" cy="152" r="8" fill="#312e81" stroke="#a5b4fc"/>
+    <text x="110" y="275" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">2 Horizontal flow</text>
+  </g>
+
+  <!-- Option 3: hub -->
+  <g transform="translate(440,0)">
+    <rect x="8" y="8" width="204" height="250" rx="8" fill="url(#ovg3)" stroke="rgba(125,211,252,0.2)"/>
+    <g stroke="rgba(125,211,252,0.3)" fill="none" stroke-width="0.8">
+      <line x1="110" y1="120" x2="110" y2="48"/><line x1="110" y1="120" x2="48" y2="78"/><line x1="110" y1="120" x2="172" y2="78"/>
+      <line x1="110" y1="120" x2="42" y2="120"/><line x1="110" y1="120" x2="178" y2="120"/>
+      <line x1="110" y1="120" x2="52" y2="178"/><line x1="110" y1="120" x2="168" y2="178"/><line x1="110" y1="120" x2="110" y2="198"/>
+    </g>
+    <circle cx="110" cy="42" r="5" fill="#1e293b" stroke="#67e8f9"/><circle cx="48" cy="72" r="5" fill="#1e293b" stroke="#67e8f9"/><circle cx="172" cy="72" r="5" fill="#1e293b" stroke="#67e8f9"/>
+    <circle cx="42" cy="120" r="5" fill="#1e293b" stroke="#67e8f9"/><circle cx="178" cy="120" r="5" fill="#1e293b" stroke="#67e8f9"/>
+    <circle cx="52" cy="178" r="5" fill="#1e293b" stroke="#67e8f9"/><circle cx="168" cy="178" r="5" fill="#1e293b" stroke="#67e8f9"/><circle cx="110" cy="198" r="5" fill="#1e293b" stroke="#67e8f9"/>
+    <circle cx="110" cy="120" r="18" fill="#134e4a" stroke="#5eead4" stroke-width="1.5"/><circle cx="110" cy="120" r="8" fill="#0f172a" stroke="#99f6e4"/>
+    <text x="110" y="275" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="11">3 Hub and spokes</text>
+  </g>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 280" width="220" height="280" role="img" aria-labelledby="t2">
+  <title id="t2">Neural network option 2: horizontal flow</title>
+  <defs>
+    <linearGradient id="f-bg" x1="0%" y1="50%" x2="100%" y2="50%">
+      <stop offset="0%" stop-color="#0c1222"/>
+      <stop offset="50%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+  </defs>
+  <rect width="220" height="280" rx="10" fill="url(#f-bg)"/>
+  <rect width="220" height="280" rx="10" fill="none" stroke="rgba(148,163,184,0.22)" stroke-width="1"/>
+  <!-- left -> mid -> right flow -->
+  <g stroke="rgba(94,234,212,0.35)" stroke-width="1.1" fill="none" stroke-linecap="round">
+    <line x1="42" y1="100" x2="98" y2="100"/><line x1="42" y1="120" x2="98" y2="110"/><line x1="42" y1="140" x2="98" y2="120"/>
+    <line x1="42" y1="160" x2="98" y2="130"/><line x1="42" y1="180" x2="98" y2="140"/>
+    <line x1="122" y1="110" x2="178" y2="125"/><line x1="122" y1="120" x2="178" y2="135"/>
+    <line x1="122" y1="130" x2="178" y2="145"/><line x1="122" y1="140" x2="178" y2="155"/>
+  </g>
+  <g fill="#1e293b" stroke="#5eead4" stroke-width="1.1">
+    <circle cx="32" cy="100" r="8"/><circle cx="32" cy="120" r="8"/><circle cx="32" cy="140" r="8"/><circle cx="32" cy="160" r="8"/><circle cx="32" cy="180" r="8"/>
+  </g>
+  <g fill="#1e293b" stroke="#7dd3fc" stroke-width="1.1">
+    <circle cx="108" cy="110" r="7"/><circle cx="108" cy="120" r="7"/><circle cx="108" cy="130" r="9"/><circle cx="108" cy="140" r="7"/>
+  </g>
+  <g fill="#312e81" stroke="#a5b4fc" stroke-width="1.2">
+    <circle cx="188" cy="130" r="10"/><circle cx="188" cy="155" r="10"/>
+  </g>
+  <text x="110" y="248" text-anchor="middle" fill="rgba(226,232,240,0.5)" font-family="system-ui,sans-serif" font-size="10" letter-spacing="0.1em">OPTION 2 FLOW</text>
+</svg>
