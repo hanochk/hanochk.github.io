@@ -8,19 +8,6 @@
 	display:inline;
 }
 
-/* About page: portrait shown at readable size without overstretching a small intrinsic box */
-.about-portrait {
-	display: block;
-	max-width: 220px;
-	max-height: 280px;
-	width: auto;
-	height: auto;
-	margin-bottom: 0;
-	border-radius: 10px;
-	object-fit: contain;
-	object-position: top left;
-}
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 	"syntax",
