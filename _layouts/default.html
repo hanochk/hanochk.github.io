@@ -123,7 +123,7 @@ ga('send', 'pageview');
     {{ content }}
 </div>
 
-{% if site.mailchimp-list %}
+{% if site.mailchimp-list != blank and page.hide_newsletter_bar != true %}
 <!-- Bottom Alert Bar
 ================================================== -->
 <div class="alertbar">
