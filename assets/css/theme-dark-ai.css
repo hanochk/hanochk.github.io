@@ -32,6 +32,11 @@ body.theme-dark-ai {
   color: var(--td-text);
 }
 
+body.theme-dark-ai .about-portrait {
+	border: 1px solid var(--td-border);
+	box-shadow: 0 8px 28px rgba(0, 0, 0, 0.45);
+}
+
 body.theme-dark-ai .mainheading .sitetitle,
 body.theme-dark-ai .section-title h2 {
   font-family: "JetBrains Mono", ui-monospace, monospace;

@@ -11,7 +11,7 @@ hide_newsletter_bar: true
 
 <p>Hi, my name is Hanoch Kremer.</p>
 
-<p class="mb-5"><img class="featured-image img-fluid" src="{{site.baseurl}}/assets/images/portrait.JPG" alt="Hanoch Kremer" height="200" width="128"/></p>
+<p class="mb-5"><img class="about-portrait img-fluid" src="{{site.baseurl}}/assets/images/about-neural-network-option-2-flow.svg" alt="Horizontal flow neural network diagram in site accent colors"/></p>
 
 <p><strong>Team leader — Computer Vision | AI | ML | LLM | Deep Learning | Signal Processing | Mentor</strong><br>
 <em>AI CV Team Leader at <a href="https://www.linkedin.com/company/railv-ision" target="_blank" rel="noopener">Rail Vision Ltd</a></em></p>
