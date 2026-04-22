@@ -1,6 +1,8 @@
 # Site
 name:
 title:
+# Visual theme: use "dark-ai" for dark slate + cyan accents (IBM Plex Sans + JetBrains Mono), or omit / "light" for the default Mediumish look
+color_scheme: dark-ai
 description: "My blog"
 logo: 'assets/images/SEO.jfif'
 favicon: 'assets/images/SEO.jfif'
